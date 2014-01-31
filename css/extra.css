@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-image:url(../img/many_stripe.jpg);
+}
+
+#content{
+	margin-top:50px;
+	background-color:rgba(224,224,224,0.6);
+}
+
+#photo{
+	margin-top:50px;
+}
+
+#social{
+	float:right;
+	text-align:center;
+}
+
+#social ul li{
+	display:inline;
+}
+
+#experience{
+	float:left;
+}
+
+#experience h2{
+	font-size:16px;
+}
+
+#experience dt{
+	 font-style: italic;
+	  font-weight: bold;
+	   font-size: 18px;
+	    text-align: left;
+		 padding: 0 26px 0 0;
+		  width: 150px;
+		    height: 50px;
+			 border-right: 1px solid #999;  
+}
+
+#experience p{ 
+	font-family: Georgia, Serif;
+	 font-style: italic; 
+	 color: #666; 
+}
+
+#intouch{
+	margin-top:50px;
+	background-color:rgba(224,224,224,0.6);
+	height:800px;
+}
+
+#intouch p{
+	border-bottom: 1px solid #999;
+}
+
+#intouch ul li{
+	display:inline;
+}
+
+#contact{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:14px;
+}
+
+#picture{
+	margin-top:50px;
+	background-color:rgba(224,224,224,0.6);
+	height:800px
+}
+
+#feature{
+	margin-top:50px;
+	background-color:rgba(224,224,224,0.6);
+}
+
+#feature p{
+	font-family:"Comic Sans MS", cursive;
+	font-style:inherit;
+	font-size:18px;
+}
+
